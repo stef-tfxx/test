@@ -1,3 +1,0 @@
-exemple
-print("hello world")
-
